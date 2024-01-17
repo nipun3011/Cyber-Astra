@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cybercrime-chatbot",
+  "private_key_id": "b451011d231cc5c98a3bde76d4b263e43a145ac5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDxNZlrBg7vqv85\nTlqGrJIMlzZlW1ql61UHgtPQ49D/HZoNn27dZE953Uc1T+1FBwOilV1pbdU8HOkp\nxgN1l4vgXg55WN2beu3y+kvObml/3Tuv/VkZo0ife3WJfG/URM8kINuv7H7Ld8DQ\nMonInUrRPT1r89gbD4pBi2IoqklEVuFbQRT1R+/JpKGjOt00zot+iOYv2mdeamOU\nCcP18zHQ1fj/eIT8WlLNz6q5SCGzSuP0otsw8gcQzW7GB99PVRyjKFf0MqKOu0Tm\nIFifneDhWHd5/49nXpdHKdfrOdcPvolzw02+grIH9fVuCfnVgEVVJLge3R3yGIkp\nQX5zP40TAgMBAAECggEALuJWtDVEwPQRUM+4i9XOO5FGuvPDTl3MNL4Kst8dOAFG\neOBk+bZuNkc6+JNVEKY44Ci9M+lr2ZfbAEojUP+Iai+OC6sow/hkeOaKxpCyg+56\nFA6f+3o/+vPR2EvuJqnLQ3/5g5vp112rBizUmEBukvYe0rVea4AdRPk1NqdGv3ft\nEpdwFQXdwhgU/PJmevlkhGq0mUPERYIRWOtZJScr2FqBEOLP5nFCBkStj46dyCaW\nuvZb89nBOutcDN7taIpm+IkOtUpJgcE5KTfU7w1zLhQCBcx0mcG6v0wItBHe70OT\nE5S95vTHDUZHajhXo5O2V+3eL1OEIKmSiiMOUjSf0QKBgQD5Lp9qaKucF6IOhUP+\nKSAKwnibT+luhxmtIUS7OV7lXB/yVSnMwkCPug8HbDY/KqwqwSrsvTRUsLXyy4w5\nHvU3pJzySea8Rf9+rk3Hrt4y+aCBjl0TdLcW8l/ObwPSsvTad4P+Ocrk2TLA5fkD\nfk9M3xgKrQckxOadRD13BE77YwKBgQD3zyHO9Hh/yboqRdFsPIyKNDTZCdXUtkUM\nrtMFIRiN3BIXCT7/lbABKjn22QdeGh8nI2OyKIFgFiUHrM9tFdIfhEla3ctD+8Tj\nyAFjWoymRJS9SD119wI0/6y0xB1wWT2X+L599SUBiw8yT5RoGUlt/jWhy3j1FVOJ\n+EvlKdlOkQKBgDZJiAWgxDJ/m5jaQ9PtlcOCVtBPeqXP3TIw206G0zvY9ETRdQfd\nEj+942RUmQTuARBXgUiOeAYzcZBx9BzFt9rljCPlIdXG0kEBLITifhpQ9D0FjRWe\nCf1/1Iue+BBBWML34tPSN3fgMgSAld3C+PfgatZ4l+PU2gFNSq7RS3vNAoGBAJcA\nqcpRYCgGRaHCv5Vj5APHQjjK7HjcxICw+zdR7oNrCb7tzGyzyvc6wu1vXDT0V+1i\nfDqwwf1KITBnFlKTjGHWG1j6dAUuItDmLCpdn/0lJzmcDo+Wf8rJzXStWH8Aci7r\nzTA1tGIXWaA/q+AvIHadBBNeSIuXfjtBiQXQlXFxAoGBAO/HCYBeSK6D6XNw2Gdv\nbl5sLcVYJ5QtTNsJpSn6PYasiVK/gngZ6c2P+yz2ZhrtakeYyrZgVrBa/f4p7jrW\nPKj9eYNFApCY4HV5/gc/oKinlNpdMDxz+7h05P4RRVyYQxUMdsSDjTJ/sg09IQfT\nrIlZpbCzh94usRHTirTF+7AW\n-----END PRIVATE KEY-----\n",
+  "client_email": "cc-cb-399@cybercrime-chatbot.iam.gserviceaccount.com",
+  "client_id": "112286891898885585519",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cc-cb-399%40cybercrime-chatbot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
