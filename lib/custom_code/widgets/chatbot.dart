@@ -26,11 +26,10 @@ class Chatbot extends StatefulWidget {
 }
 
 class _ChatbotState extends State<Chatbot> {
-  bool _botFlag = false;
 
   Future<void> response(query) async {
     AuthGoogle authGoogle = await AuthGoogle(
-      fileJson: "./assets/cybercrime-chatbot-b451011d231c.json",
+      fileJson: "assets/cybercrime-chatbot-b451011d231c.json",
     ).build();
     DialogFlow dialogflow = DialogFlow(authGoogle: authGoogle);
     AIResponse aiResponse = await dialogflow.detectIntent(query);

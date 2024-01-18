@@ -145,6 +145,7 @@ flutter:
     - assets/lottie_animations/
     - assets/rive_animations/
     - assets/pdfs/
+    - assets/cybercrime-chatbot-b451011d231c.json
   fonts:
     - family: MyFlutterApp
       fonts:
