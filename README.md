@@ -19,9 +19,6 @@ A cross-platform mobile/web application which makes reporting of cybercrimes wit
 Our app makes the process of reporting of Cybercrimes with simple click of buttons and avoid filling of redundant information again and again. The faster the crime is reported the faster are the chances of resolving the issues. Also making the people aware about Cybercrimes fostering them with the Do's & Dont's minimizing the chances of a cyber threat
 
 ### *Our Team*
-1) Team Code: 381
-2) Team Name: R Squad
-3) Team Leader: Jasteg Singh
-4) Team Members: Mann Bajpai and Nipun Agrawal
+4) Team Members: Jasteg Singh and Nipun Agrawal
 
 
